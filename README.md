@@ -13,7 +13,7 @@ width="400"
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **PYTHON,MEARN**
+- 💬 Ask me about **Python,MEARN**
 
 - 📫 How to reach me **robsanbayisa@gmail.com**
 
