@@ -21,7 +21,7 @@
 <br>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,github" />
   </a>
 </p>
 <br>
