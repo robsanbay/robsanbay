@@ -1,18 +1,61 @@
-# 💫 About Me:
-Fullstack Developer
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-mBZTDmW/0LWfMCC6n2Cdqg3hTgRUW1XyHEeDLAMgBc9zIzUtoMyDbVZ4RJe5h6QQuBbgHfhrv8tK/RzwJMgd+RQ==" crossorigin="anonymous" />
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Full-Stack+Web+and+App+Developer;&center=true&width=500&height=50"></a>
+</p>
+
+<p>
+<div display="flex">
+ <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Technologies and Frameworks I Used
+</div>
+<br>
+
+<p align="center">
+  <a href="">
+    <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,docker,tailwind,bootstrap,css,firebase" />
+        <img src="https://skillicons.dev/icons?i=angular,react,figma,html,laravel,mysql,py,vite,symfony" />
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robsan-bayisa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/BayisaRobsan) 
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,anaconda,tensorflow,vscode" />
+  </a>
+</p>
+<br>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=robsanbay&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=robsanbay&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robsanbay&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">Contact me on:</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=robsanbay&icon=2&color=12)](https://visitcount.itsvg.in)
+<p align="center">
+<!--     <a 
+        href="https://www.linkedin.com/in/robsan-bayisa">
+        <img            src="https://camo.githubusercontent.com/570a0fd895c1f854918833cb7c2d16d6284e1613b5590f14c3146308df512391/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d" 
+            target="_blank"/>
+    </a> -->
+   <a href="https://upwork.com/freelancers/~01915dd6f314b018fb?mp_source=share">
+     <img src="https://camo.githubusercontent.com/7cd478b0991a2887b86b80b07f56e6d6c480aab0d41d28a1564d3bd3ebd59422/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5570776f726b26636f6c6f723d323232323232266c6f676f3d5570776f726b266c6f676f436f6c6f723d364644413434266c6162656c3d">
+   </a>
+        <a 
+            href="https://github.com/robsanbay">
+            <img 
+                alt="followers" 
+                title="Follow me on GitHub" 
+                src="https://img.shields.io/github/followers/robsanbay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
+                target="_blank"/>
+        </a>
+      
+  </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![robsanbay Git Status](https://github-readme-stats.vercel.app/api?username=robsanbay&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsanbay&show_icons=true&theme=dark&hide_title=true) | ![robsanbay](https://github-readme-streak-stats.herokuapp.com/?user=robsanbay&theme=dark) |
+
+
+<br>
+
+
+
