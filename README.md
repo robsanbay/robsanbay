@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="">
-<img src="https://skillicons.dev/icons?i=svelte,vue,nuxtjs,js,nodejs,ts,docker,tailwind,bootstrap,css,firebase" />
+<img src="https://skillicons.dev/icons?i=svelte,vue,nuxtjs,js,nodejs,ts,expressjs,docker,tailwind,bootstrap,css,firebase" />
         <img src="https://skillicons.dev/icons?i=angular,react,figma,html,laravel,mysql,py,vite,symfony,php" />
 
 
