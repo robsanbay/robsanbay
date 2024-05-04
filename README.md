@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="">
-<img src="https://skillicons.dev/icons?i=angular,nuxtjs,js,nodejs,ts,laravel,expressjs,docker,tailwind,bootstrap,css,firebase" />
-        <img src="https://skillicons.dev/icons?i=svelte,react,figma,vue,mongodb,mysql,py,vite,php,html" />
+<img src="https://skillicons.dev/icons?i=angular,nuxtjs,mysql,js,ts,laravel,expressjs,docker,tailwind,bootstrap,css,firebase" />
+        <img src="https://skillicons.dev/icons?i=svelte,react,figma,vue,mongodb,nodejs,py,vite,php,html" />
 
 
   </a>
