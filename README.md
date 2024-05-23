@@ -38,11 +38,11 @@
      <img src="https://camo.githubusercontent.com/7cd478b0991a2887b86b80b07f56e6d6c480aab0d41d28a1564d3bd3ebd59422/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5570776f726b26636f6c6f723d323232323232266c6f676f3d5570776f726b266c6f676f436f6c6f723d364644413434266c6162656c3d">
    </a>
         <a 
-            href="https://github.com/robsanbay">
+            href="https://github.com/robsanBayisa">
             <img 
                 alt="followers" 
                 title="Follow me on GitHub" 
-                src="https://img.shields.io/github/followers/robsanbay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
+                src="https://img.shields.io/github/followers/robsanBayisa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
                 target="_blank"/>
         </a>
       
@@ -51,7 +51,7 @@
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Robsan Git Status](https://github-readme-stats.vercel.app/api?username=robsanbay&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsanbay&show_icons=true&theme=dark&hide_title=true) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=robsanbay&theme=dark) |
+| ![Robsan Git Status](https://github-readme-stats.vercel.app/api?username=robsanBayisa&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsanBayisa&show_icons=true&theme=dark&hide_title=true) | ![bethlehem-dagnachew](https://github-readme-streak-stats.herokuapp.com/?user=robsanBayisa&theme=dark) |
 
 
 <br>
