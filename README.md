@@ -21,7 +21,7 @@
 <br>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,vscode,bash,github" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,npm,bash,github" />
   </a>
 </p>
 <br>
